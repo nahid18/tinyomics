@@ -1,3 +1,3 @@
-# tinyomics (development version)
+# tinyomics 
 
-* Initial CRAN submission.
+* prototype
