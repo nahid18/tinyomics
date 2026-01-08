@@ -7,11 +7,7 @@ A lightweight R package providing instant access to curated omics datasets for t
 ## Installation
 
 ```r
-# Install from GitHub
-devtools::install_github("tinyomics/tinyomics")
-
-# Or if using renv
-renv::install("tinyomics/tinyomics")
+devtools::install_github("nahid18/tinyomics")
 ```
 
 ## Quick Start
