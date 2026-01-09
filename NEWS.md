@@ -1,3 +1,3 @@
-# tinyomics 
+# tinyomics 0.1.3
 
-* prototype
+* Initial release with scrna, bulk, spatial, cytof modalities
