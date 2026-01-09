@@ -16,8 +16,6 @@ devtools::install_github("nahid18/tinyomics")
 library(tinyomics)
 
 sce <- scrna$pbmc_2020()
-sce <- scrna$zeisel_2015()
-sce <- scrna$baron_2016()
 
 se <- bulk$airway_2014()
 
